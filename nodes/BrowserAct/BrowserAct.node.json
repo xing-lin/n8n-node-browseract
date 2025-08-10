@@ -1,0 +1,18 @@
+{
+	"node": "n8n-nodes-base.BrowserAct",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["CategoriesInNodeJson"],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://www.browseract.com/blog"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://www.browseract.com/login"
+			}
+		]
+	}
+}
